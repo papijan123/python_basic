@@ -1,0 +1,12 @@
+a={1,2,3,4,5}
+b={3,5,4,8,9,7}
+c=a|b
+print(c)
+d=a&b
+print(d)
+e=a-b
+print(e)
+f=b-a
+print(f)
+g=a^b
+print(g)

@@ -1,0 +1,9 @@
+subject=["maths","science","arts"]
+print(subject)
+print(type(subject))
+print(subject[0])
+print(subject[-1])
+subject[0]="history"
+print(subject)
+subject.append("physics")
+print(subject)
